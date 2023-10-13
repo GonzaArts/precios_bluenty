@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
-    <title>Precio Calculator</title>
+    <title>Calculador de precio</title>
 </head>
 <body>
 
 <div class="container">
-    <h1>Precio Calculator</h1>
+    <h1>Calculador de precio</h1>
 
     <form method="POST" action="">
         <label for="precio">Precio recomendado:</label>
